@@ -53,4 +53,5 @@ _이탤릭은 언더라인1개_
 
 ![이미지 연습](https://starwalk.space/gallery/images/the-brightest-stars/1920x1080)
 
+![내부폴더 이미지](./images/7starSky_1920x1080.jpeg)
 
